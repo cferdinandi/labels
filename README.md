@@ -1,5 +1,7 @@
 # Labels
-Lightweight CSS labels. [View the demo](http://cferdinandi.github.io/labels/).
+Lightweight CSS labels.
+
+[Download Labels](https://github.com/cferdinandi/labels/archive/master.zip) / [View the demo](http://cferdinandi.github.io/labels/).
 
 **In This Documentation**
 
