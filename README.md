@@ -1,4 +1,4 @@
-# Labels
+# Labels [![Build Status](https://travis-ci.org/cferdinandi/labels.svg)](https://travis-ci.org/cferdinandi/labels)
 Lightweight CSS labels.
 
 [Download Labels](https://github.com/cferdinandi/labels/archive/master.zip) / [View the demo](http://cferdinandi.github.io/labels/).
@@ -15,10 +15,12 @@ Lightweight CSS labels.
 
 ## Getting Started
 
+Compiled and production-ready code can be found in the `dist` directory. The `src` directory contains development code.
+
 ### 1. Include Labels on your site.
 
 ```html
-<link rel="stylesheet" href="css/labels-css.css">
+<link rel="stylesheet" href="dist/css/labels.css">
 ```
 
 Labels is [built with Sass](http://sass-lang.com/) for easy customization. If you don't use Sass, that's ok. The `css` folder contains compiled vanilla CSS.
@@ -58,5 +60,10 @@ Labels is licensed under the [MIT License](http://gomakethings.com/mit/).
 
 ## Changelog
 
+* v1.1.0 - June 23, 2014
+	* Converted to gulp.js workflow.
+	* Updated naming conventions.
+	* Added minified versions of files.
+	* Updated to three number versioning system.
 * v1.0 - December 2, 2013
 	* Initial release.

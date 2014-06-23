@@ -1,0 +1,25 @@
+/**
+ * Labels v1.1.0
+ * Lightweight CSS labels, by Chris Ferdinandi.
+ * http://github.com/cferdinandi/labels
+ * 
+ * Free to use under the MIT License.
+ * http://gomakethings.com/mit/
+ */
+
+.label {
+  font-size: 0.8125em;
+  color: #ffffff;
+  background-color: #0088cc;
+  font-weight: bold;
+  padding: 0.25em 0.5em;
+  border-radius: 0.0725em; }
+
+.label-success {
+  background-color: #377f31; }
+
+.label-danger {
+  background-color: #880e14; }
+
+.label-warning {
+  background-color: #dba909; }
