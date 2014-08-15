@@ -60,6 +60,8 @@ Labels is licensed under the [MIT License](http://gomakethings.com/mit/).
 
 ## Changelog
 
+Labels uses [semantic versioning](http://semver.org/).
+
 * v1.1.0 - June 23, 2014
 	* Converted to gulp.js workflow.
 	* Updated naming conventions.
