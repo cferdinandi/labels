@@ -62,6 +62,8 @@ Labels is licensed under the [MIT License](http://gomakethings.com/mit/).
 
 Labels uses [semantic versioning](http://semver.org/).
 
+* v1.2.0 - August 25, 2014
+	* Switched from Sass Lib to Ruby Sass.
 * v1.1.0 - June 23, 2014
 	* Converted to gulp.js workflow.
 	* Updated naming conventions.
