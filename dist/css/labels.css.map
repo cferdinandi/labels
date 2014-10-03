@@ -1,0 +1,16 @@
+/**
+ * Labels v1.2.1
+ * Lightweight CSS labels, by Chris Ferdinandi.
+ * http://github.com/cferdinandi/labels
+ * 
+ * Free to use under the MIT License.
+ * http://gomakethings.com/mit/
+ */
+
+{
+"version": 3,
+"mappings": "AAAA,MAAO;EACN,SAAS,EAAE,QAAa;EACxB,KAAK,ECMQ,OAAO;EDLpB,gBAAgB,ECGD,OAAO;EDFtB,WAAW,EAAE,IAAI;EACjB,OAAO,EAAE,YAAyB;EAClC,aAAa,EE0BJ,QAAQ;;;AFvBlB,cAAe;EACd,gBAAgB,ECAD,OAAO;;;ADGvB,aAAc;EACb,gBAAgB,ECHF,OAAO;;;ADMtB,cAAe;EACd,gBAAgB,ECND,OAAO",
+"sources": ["../components/_labels.scss","../_config.scss","../_mixins.scss"],
+"names": [],
+"file": "labels.css"
+}
