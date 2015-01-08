@@ -96,6 +96,8 @@ Labels is licensed under the [MIT License](http://gomakethings.com/mit/).
 
 Labels uses [semantic versioning](http://semver.org/).
 
+* v1.3.0 - January 7, 2015
+	* Added `$color-info` variable.
 * v1.2.2 - October 19, 2014
 	* Updated `gulpfile.js` tasks and namespacing.
 * v1.2.1 - October 3, 2014
