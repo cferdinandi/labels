@@ -1,5 +1,5 @@
 /**
- * Labels v1.2.2
+ * Labels v1.3.0
  * Lightweight CSS labels, by Chris Ferdinandi.
  * http://github.com/cferdinandi/labels
  * 
@@ -7,6 +7,7 @@
  * http://gomakethings.com/mit/
  */
 
+/* line 1, ../components/_labels.scss */
 .label {
   font-size: 0.8125em;
   color: #ffffff;
@@ -16,14 +17,17 @@
   border-radius: 0.0725em;
 }
 
+/* line 10, ../components/_labels.scss */
 .label-success {
   background-color: #377f31;
 }
 
+/* line 14, ../components/_labels.scss */
 .label-danger {
   background-color: #880e14;
 }
 
+/* line 18, ../components/_labels.scss */
 .label-warning {
   background-color: #dba909;
 }
