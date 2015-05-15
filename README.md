@@ -11,7 +11,6 @@ Lightweight CSS labels.
 4. [Browser Compatibility](#browser-compatibility)
 5. [How to Contribute](#how-to-contribute)
 6. [License](#license)
-7. [Changelog](#changelog)
 
 
 
@@ -89,27 +88,3 @@ In lieu of a formal style guide, take care to maintain the existing coding style
 ## License
 
 Labels is licensed under the [MIT License](http://gomakethings.com/mit/).
-
-
-
-## Changelog
-
-Labels uses [semantic versioning](http://semver.org/).
-
-* v1.3.0 - January 7, 2015
-	* Added `$color-info` variable.
-* v1.2.2 - October 19, 2014
-	* Updated `gulpfile.js` tasks and namespacing.
-* v1.2.1 - October 3, 2014
-	* Updated `gulpfile.js`.
-	* Updated readme.
-	* Updated travis config.
-* v1.2.0 - August 25, 2014
-	* Switched from Sass Lib to Ruby Sass.
-* v1.1.0 - June 23, 2014
-	* Converted to gulp.js workflow.
-	* Updated naming conventions.
-	* Added minified versions of files.
-	* Updated to three number versioning system.
-* v1.0 - December 2, 2013
-	* Initial release.
