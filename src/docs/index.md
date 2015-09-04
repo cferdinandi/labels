@@ -1,0 +1,1 @@
+<span class="label">Label</span> <span class="label label-success">Sucess Label</span> <span class="label label-danger">Danger Label</span> <span class="label label-warning">Warning Label</span>
