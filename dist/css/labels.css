@@ -1,13 +1,11 @@
-/**
- * Labels v1.3.0
- * Lightweight CSS labels, by Chris Ferdinandi.
+/*!
+ * Labels v1.3.0: Lightweight CSS labels
+ * (c) 2015 Chris Ferdinandi
+ * MIT License
  * http://github.com/cferdinandi/labels
- * 
- * Free to use under the MIT License.
- * http://gomakethings.com/mit/
  */
 
-/* line 1, ../components/_labels.scss */
+/* line 1, /Users/cferdinandi/Sites/labels/src/sass/components/_labels.scss */
 .label {
   font-size: 0.8125em;
   color: #ffffff;
@@ -17,17 +15,17 @@
   border-radius: 0.0725em;
 }
 
-/* line 10, ../components/_labels.scss */
+/* line 10, /Users/cferdinandi/Sites/labels/src/sass/components/_labels.scss */
 .label-success {
   background-color: #377f31;
 }
 
-/* line 14, ../components/_labels.scss */
+/* line 14, /Users/cferdinandi/Sites/labels/src/sass/components/_labels.scss */
 .label-danger {
   background-color: #880e14;
 }
 
-/* line 18, ../components/_labels.scss */
+/* line 18, /Users/cferdinandi/Sites/labels/src/sass/components/_labels.scss */
 .label-warning {
   background-color: #dba909;
 }

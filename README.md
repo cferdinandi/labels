@@ -3,15 +3,6 @@ Lightweight CSS labels.
 
 [Download Labels](https://github.com/cferdinandi/labels/archive/master.zip) / [View the demo](http://cferdinandi.github.io/labels/)
 
-**In This Documentation**
-
-1. [Getting Started](#getting-started)
-2. [Installing with Package Managers](#installing-with-package-managers)
-3. [Working with the Source Files](#working-with-the-source-files)
-4. [Browser Compatibility](#browser-compatibility)
-5. [How to Contribute](#how-to-contribute)
-6. [License](#license)
-
 
 
 ## Getting Started
@@ -23,10 +14,6 @@ Compiled and production-ready code can be found in the `dist` directory. The `sr
 ```html
 <link rel="stylesheet" href="dist/css/labels.css">
 ```
-
-Labels is [built with Sass](http://sass-lang.com/) for easy customization. If you don't use Sass, that's ok. The `css` folder contains compiled vanilla CSS.
-
-The `_config.scss` and `_mixins.scss` files are the same ones used in [Kraken](http://cferdinandi.github.io/kraken/), so you can drop the `_labels.css` file right into Kraken without making any updates. Or, adjust the variables to suit your own project.
 
 ### 2. Add the markup to your HTML.
 
@@ -45,9 +32,9 @@ And that's it, you're done. Nice work!
 
 You can install Labels with your favorite package manager.
 
-* **[NPM](https://www.npmjs.org/):** `npm install cferdinandi/labels`
-* **[Bower](http://bower.io/):** `bower install https://github.com/cferdinandi/labels.git`
-* **[Component](http://component.io/):** `component install cferdinandi/labels`
+* **NPM:** `npm install cferdinandi/labels`
+* **Bower:** `bower install https://github.com/cferdinandi/labels.git`
+* **Component:** `component install cferdinandi/labels`
 
 
 
