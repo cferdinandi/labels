@@ -1,8 +1,7 @@
 # Labels [![Build Status](https://travis-ci.org/cferdinandi/labels.svg)](https://travis-ci.org/cferdinandi/labels)
+[![Labels Prewiew](https://i.imgur.com/7l0ikq6.png)](https://i.imgur.com/7l0ikq6.png)
+
 Lightweight CSS labels.
-
-[Download Labels](https://github.com/cferdinandi/labels/archive/master.zip) / [View the demo](http://cferdinandi.github.io/labels/)
-
 
 
 ## Getting Started
